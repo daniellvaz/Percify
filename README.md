@@ -4,7 +4,7 @@ Percify is a simple library for generate percentages.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install.
+Use the package manager [npm](https://www.npmjs.com/) or [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) to install.
 
 ```bash
 npm install percify
