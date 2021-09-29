@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [logo](https://github.com/daniellvaz/Percify/blob/master/logo.png)
 
 Percify is a simple library for generate percentages.
@@ -37,3 +38,10 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/) 💙 [Daniel Murilo Vaz](https://www.daniellvaz.com.br)
+=======
+
+  <img style="
+    display: flex;
+    align-items: center;
+    justify-content: center;" src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="logo">
+>>>>>>> a3e58b96ca67321bdab9c29b0ec0b454da4ee787
