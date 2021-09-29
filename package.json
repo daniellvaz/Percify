@@ -1,7 +1,7 @@
 {
   "name": "percify",
   "description": "An simple lib to generate a percentage",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "main": "packages/percentage/index.js",
   "license": "MIT",
   "types": "./packages/percentage/types/index.d.ts",
