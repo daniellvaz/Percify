@@ -1,8 +1,8 @@
-<div style="width: 100vw; height: 5rem; display: flex; align-items: center; justify-content: center;">
+<p align="center">
   <a href="https://www.daniellvaz.com/">
-    <img src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="Percify">
+    <img src="" alt="Percify">
   </a>
-</div>
+</p>
 
 <div style="display: flex">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
