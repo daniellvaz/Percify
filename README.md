@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.daniellvaz.com/">
-    <img src="" alt="Percify">
+  <a width="100%" height="5rem" href="https://www.daniellvaz.com/">
+    <img src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="Percify">
   </a>
 </p>
 
