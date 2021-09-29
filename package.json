@@ -1,8 +1,12 @@
 {
   "name": "percify",
   "description": "An simple lib to generate a percentage",
-  "keywords": ["percentage", "percify", "node"],
-  "version": "2.3.0",
+  "keywords": [
+    "percentage",
+    "percify",
+    "node"
+  ],
+  "version": "2.4.0-0",
   "main": "packages/percentage/index.js",
   "license": "MIT",
   "types": "./packages/percentage/types/index.d.ts",
