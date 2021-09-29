@@ -15,6 +15,10 @@
     "email": "daniellmvaz@gmail.com",
     "url": "https://www.daniellvaz.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:daniellvaz/percify.git"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
