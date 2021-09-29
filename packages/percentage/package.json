@@ -1,0 +1,13 @@
+{
+  "name": "@percify/percentage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "types": "types/*",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
