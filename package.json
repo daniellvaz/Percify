@@ -1,9 +1,8 @@
 {
   "name": "percify",
-  "private": true,
   "description": "An simple lib to generate a percentage",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "packagees/percentage/index.js",
   "license": "MIT",
   "workspaces": {
     "packages": [
