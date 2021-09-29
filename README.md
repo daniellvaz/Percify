@@ -10,6 +10,12 @@ Use the package manager [npm](https://www.npmjs.com/) to install.
 npm install percify
 ```
 
+or
+
+```bash
+yarn add percify
+```
+
 ## Usage
 
 ```javascript
