@@ -1,7 +1,8 @@
-<a href="https://www.daniellvaz.com/" 
-style="width: 100%; height: 5rem; display: flex; align-items: center; justify-content: center">
-<img src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="Percify">
-</a>
+<div style="width: 100vw; height: 5rem; display: flex; align-items: center; justify-content: center;">
+  <a href="https://www.daniellvaz.com/">
+    <img src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="Percify">
+  </a>
+</div>
 
 <div style="display: flex">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
