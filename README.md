@@ -3,11 +3,13 @@ style="width: 100%; height: 5rem; display: flex; align-items: center; justify-co
 <img src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="Percify">
 </a>
 
-![image]({https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white})
-![image]({https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white})
-![image]({https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white})
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 
-Percify is a simple library for generate percentages.
+<hr>
+
+## Percify is a simple library for generate percentages.
 
 ## Installation
 
