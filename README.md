@@ -1,5 +1,5 @@
 <p align="center">
-  <a width="100%" height="5rem" href="https://www.daniellvaz.com/">
+  <a width="100%" height="10rem" href="https://www.daniellvaz.com/">
     <img src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="Percify">
   </a>
 </p>
