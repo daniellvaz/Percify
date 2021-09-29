@@ -30,7 +30,7 @@ yarn add percify
 ## Usage
 
 ```javascript
-const percentage = require("@percify/percentage");
+const percentage = require("percify");
 
 /**
  * returns "Percentage: 10%"
