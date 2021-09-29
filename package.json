@@ -1,0 +1,21 @@
+{
+  "name": "percify",
+  "private": true,
+  "description": "An simple lib to generate a percentage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": {
+    "name": "Daniel Murilo Vaz",
+    "email": "daniellmvaz@gmail.com",
+    "url": "https://www.daniellvaz.com"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
