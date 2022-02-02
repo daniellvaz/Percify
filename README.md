@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<div style="display: flex">
+<div style="display: flex" align="center">
   <a href="https://www.npmjs.com/package/percify">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   </a>
