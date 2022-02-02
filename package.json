@@ -1,6 +1,11 @@
 {
   "name": "percify",
   "description": "An simple lib to generate a percentage",
+  "author": {
+    "name": "Daniel Murilo Vaz",
+    "email": "daniellmvaz@gmail.com",
+    "url": "https://www.daniellvaz.com"
+  },
   "keywords": [
     "percentage",
     "percify",
@@ -10,11 +15,6 @@
   "main": "packages/percentage/index.js",
   "license": "MIT",
   "types": "./packages/percentage/types/index.d.ts",
-  "author": {
-    "name": "Daniel Murilo Vaz",
-    "email": "daniellmvaz@gmail.com",
-    "url": "https://www.daniellvaz.com"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:daniellvaz/percify.git"
