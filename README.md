@@ -1,6 +1,6 @@
 <p align="center">
   <a width="100%" height="10rem" href="https://www.daniellvaz.com/">
-    <img src="https://github.com/daniellvaz/Percify/blob/master/logo.png" alt="Percify">
+    <img src="/logo.png" alt="Percify">
   </a>
 </p>
 
@@ -47,6 +47,13 @@ console.log("Percentage: " + percentage(150, 1500) + "%");
  * params type string
  */
 console.log("Percentage: " + percentage("150", "1500") + "%");
+
+/**
+ * Return formated value
+ *
+ */
+const percent = percentage(150, 1500).format();
+console.log(percent); // returns "10%"
 ```
 
 ## Contributing
